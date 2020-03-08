@@ -23,16 +23,16 @@ export default function Template({
 
    return (
       <>
-         <Header />
-         <div className="blog-post-container">
-            <div className="blog-post">
+         <Header title={frontmatter.title} />
+         <div className="main-container">
+            <main>
                <h1>{frontmatter.title}</h1>
                <div
                   ref={content}
                   className="blog-post-content"
                   dangerouslySetInnerHTML={{ __html: html }}
                />
-            </div>
+            </main>
          </div>
          <Footer />
       </>

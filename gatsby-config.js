@@ -46,7 +46,7 @@ module.exports = {
             background_color: '#663399',
             theme_color: '#663399',
             display: 'minimal-ui',
-            icon: 'g_docs/images/envision.png' // This path is relative to the root of the site.
+            icon: 'g_docs/images/envision_logo.png'
          }
       }
    ]

@@ -8,7 +8,7 @@
       "build-docs-js": "webpack --config webpack.docs.js",
       "build-dist": "webpack --config webpack.dist.js",
       "build": "npm run build-docs-js && npm run build-docs && npm run build-dist",
-      "watch": "webpack --config webpack.docs.js --watch"
+      "dev": "gatsby develop & webpack --config webpack.docs.js --watch"
    },
    "repository": {
       "type": "git",
