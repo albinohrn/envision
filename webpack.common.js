@@ -1,6 +1,7 @@
+/* globals require:false, module:false, __dirname:false */
 const path = require('path');
 const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
-const TerserWebpackPlugin  = require('terser-webpack-plugin');
+const TerserWebpackPlugin = require('terser-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
@@ -64,12 +65,14 @@ module.exports = {
          },
          {
             test: /\.(eot|svg|ttf|woff|woff2)$/,
-            use: [{
-               loader: 'file-loader',
-               options: {
-                  name: '[name].[ext]'
+            use: [
+               {
+                  loader: 'file-loader',
+                  options: {
+                     name: '[name].[ext]'
+                  }
                }
-            }]
+            ]
          }
       ]
    }
