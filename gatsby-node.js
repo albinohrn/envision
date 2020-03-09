@@ -36,7 +36,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
    const docsTemplate = path.resolve(`g_docs/templates/docs.js`);
    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      console.log(node.fields.slug);
       createPage({
          path: node.fields.slug,
          component: docsTemplate,
