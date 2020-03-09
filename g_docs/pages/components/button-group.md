@@ -1,5 +1,4 @@
 ---
-path: /components/button-group
 title: 'Button group'
 ---
 

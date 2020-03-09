@@ -1,5 +1,4 @@
 ---
-path: /utils/icons
 title: Icons
 ---
 

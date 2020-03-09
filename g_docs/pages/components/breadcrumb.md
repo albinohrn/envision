@@ -1,5 +1,4 @@
 ---
-path: /components/breadcrumb
 title: Breadcrumb
 ---
 

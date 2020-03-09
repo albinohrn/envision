@@ -1,5 +1,4 @@
 ---
-path: /utils/accessibility
 title: Accessibility
 ---
 

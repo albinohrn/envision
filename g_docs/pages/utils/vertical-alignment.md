@@ -1,5 +1,4 @@
 ---
-path: /utils/vertical-alignment
 title: Vertical alignment
 ---
 

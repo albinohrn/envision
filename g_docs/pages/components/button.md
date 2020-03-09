@@ -1,5 +1,4 @@
 ---
-path: /components/button
 title: Button
 ---
 

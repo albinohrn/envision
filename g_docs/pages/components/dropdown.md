@@ -1,5 +1,4 @@
 ---
-path: /components/dropdown
 title: Dropdown
 ---
 

@@ -1,5 +1,4 @@
 ---
-path: /utils/borders
 title: Borders
 ---
 

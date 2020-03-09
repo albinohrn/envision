@@ -1,5 +1,4 @@
 ---
-path: /components/progress-indicator
 title: Progress indicator
 ---
 

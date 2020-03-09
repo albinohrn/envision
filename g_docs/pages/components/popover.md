@@ -1,5 +1,4 @@
 ---
-path: /components/popover
 title: Popover
 ---
 

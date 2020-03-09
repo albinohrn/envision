@@ -1,5 +1,4 @@
 ---
-path: /utils/flexbox
 title: Flexbox
 ---
 

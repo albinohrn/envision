@@ -1,5 +1,4 @@
 ---
-path: /utils/sizing
 title: Sizing
 ---
 

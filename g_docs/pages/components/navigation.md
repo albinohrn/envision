@@ -1,5 +1,4 @@
 ---
-path: /components/navigation
 title: Navigation
 ---
 

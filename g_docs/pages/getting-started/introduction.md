@@ -1,5 +1,4 @@
 ---
-path: /getting-started/introduction
 title: Introduction
 ---
 

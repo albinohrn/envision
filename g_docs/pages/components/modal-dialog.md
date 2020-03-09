@@ -1,5 +1,4 @@
 ---
-path: /components/modal-dialog
 title: 'Modal dialog'
 ---
 

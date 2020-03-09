@@ -1,5 +1,4 @@
 ---
-path: /components/range-slider
 title: 'Range slider'
 ---
 

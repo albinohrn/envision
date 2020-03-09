@@ -1,5 +1,4 @@
 ---
-path: /utils/text
 title: Text
 ---
 

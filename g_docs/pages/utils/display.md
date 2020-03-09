@@ -1,5 +1,4 @@
 ---
-path: /utils/display
 title: Display
 ---
 

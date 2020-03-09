@@ -1,5 +1,4 @@
 ---
-path: /components/image-slider
 title: 'Image slider'
 ---
 ## Imageslider ##

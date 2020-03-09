@@ -1,5 +1,4 @@
 ---
-path: /components/feed
 title: Feed
 ---
 

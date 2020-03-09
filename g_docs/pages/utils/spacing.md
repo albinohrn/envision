@@ -1,5 +1,4 @@
 ---
-path: /utils/spacing
 title: Spacing
 ---
 

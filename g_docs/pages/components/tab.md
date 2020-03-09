@@ -1,5 +1,4 @@
 ---
-path: /components/tab
 title: Tab
 ---
 

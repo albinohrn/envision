@@ -1,5 +1,4 @@
 ---
-path: /components/collapse
 title: Collapse
 ---
 

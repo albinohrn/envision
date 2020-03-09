@@ -1,5 +1,4 @@
 ---
-path: /components/form
 title: Form
 ---
 ## Elements ##

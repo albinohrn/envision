@@ -1,5 +1,4 @@
 ---
-path: /components/table
 title: Table
 ---
 

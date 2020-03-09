@@ -1,5 +1,4 @@
 ---
-path: /components/pagination
 title: Pagination
 ---
 

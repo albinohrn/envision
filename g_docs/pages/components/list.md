@@ -1,5 +1,4 @@
 ---
-path: /components/list
 title: List
 ---
 

@@ -1,5 +1,4 @@
 ---
-path: /components/alert
 title: Alert
 ---
 

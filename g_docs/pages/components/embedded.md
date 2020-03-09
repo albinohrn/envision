@@ -1,5 +1,4 @@
 --- 
-path: /components/embedded
 title: Embedded 
 --- 
 

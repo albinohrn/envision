@@ -1,5 +1,4 @@
 ---
-path: /utils/colors
 title: Colors
 ---
 

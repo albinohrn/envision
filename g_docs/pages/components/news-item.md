@@ -1,5 +1,4 @@
 --- 
-path: /components/news-item
 title: 'News item'
 --- 
 

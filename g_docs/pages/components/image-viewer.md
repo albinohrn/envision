@@ -1,5 +1,4 @@
 ---
-path: /components/image-viewer
 title: 'Image viewer'
 ---
 

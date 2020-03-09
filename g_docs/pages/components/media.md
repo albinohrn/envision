@@ -1,5 +1,4 @@
 ---
-path: /components/media
 title: Media
 ---
 
